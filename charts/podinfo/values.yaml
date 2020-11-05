@@ -8,7 +8,7 @@ cache: ""
 
 ui:
   color: "#34577c"
-  message: ""
+  message: "Welcome to FluxCD v1"
   logo: ""
 
 faults:
