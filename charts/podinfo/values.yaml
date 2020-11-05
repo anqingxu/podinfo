@@ -7,7 +7,7 @@ backends: []
 
 ui:
   color: "#34577c"
-  message: ""
+  message: "Welcome to Flux v1"
   logo: ""
 
 faults:
